@@ -1,6 +1,6 @@
 # jam
 
-This is the Next.js site using Contentful as CMS
+This is a Next.js site using Contentful as CMS
 
 https://jam-navy.vercel.app/
 
